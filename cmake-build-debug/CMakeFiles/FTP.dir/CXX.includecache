@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maksimtrunnikov/Google Диск/FTP/main.cpp
+sys/types.h
+-
+sys/socket.h
+-
+sys/time.h
+-
+netinet/in.h
+-
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+algorithm
+-
+set
+-
+arpa/inet.h
+-
+cstring
+-
+iostream
+-
+vector
+-
+sstream
+-
+fstream
+-
+
