@@ -1,6 +1,6 @@
 # SimpleFTPConsoleSocketClient
  
-Simple HTTP Console client that works using sockets.
+Simple HTTP Console client that works via sockets.
 
 ### What it does:
 1. Connects to a FTP server
